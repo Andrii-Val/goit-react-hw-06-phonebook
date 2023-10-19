@@ -13,7 +13,7 @@ export const BtnOpen = styled.button`
   height: 50px;
   border-radius: 50%;
   border: 1px solid #000;
-  background-color: #4287f5;
+  background-color: green;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -54,7 +54,7 @@ export const BtnClose = styled.button`
 
 export const Title = styled.h2`
   font-size: 45px;
-  color: #4287f5;
+  color: green;
   -webkit-text-stroke: 1.3px #000;
   margin-bottom: 10px;
 `;
@@ -66,5 +66,5 @@ export const SubTitle = styled.h2`
 
 export const Massage = styled.p`
   font-size: 20px;
-  color: #d4082a;
+  color: green;
 `;
