@@ -23,7 +23,7 @@ export const StyledField = styled(Field)`
 export const StyledErrorMessage = styled(ErrorMessage)`
   font-size: 15px;
   margin-top: 5px;
-  color: #f71d05;
+  color: green;
 `;
 
 export const Button = styled.button`
